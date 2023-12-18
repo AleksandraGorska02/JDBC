@@ -1,4 +1,4 @@
-#JDBC assignments for classes at poznan university of technology
+JDBC assignments for classes at poznan university of technology
 
 Zadanie 1
 Napisz program, który wyświetla następujące informacje:
